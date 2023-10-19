@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    background-color: antiquewhite;
+    border: 1px red solid;
+    border-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.p-text{
+    color: black;
+    text-indent: 50px;
+    text-align: justify;
+}
+
+img{
+    border-radius: 30px;
+    box-shadow: 10px;
+    margin-right: 20px;
+}
+
+img:hover{
+    filter: grayscale();
+}
